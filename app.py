@@ -220,7 +220,7 @@ def create_gui():
     running = False
 
     root = tk.Tk()
-    root.title("VOLOVOD | TONWALLET v.0.1")
+    root.title("VOL | TONWALLET v.0.1")
 
     frame = tk.Frame(root)
     frame.pack(padx=10, pady=10)
